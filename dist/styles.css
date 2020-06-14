@@ -1,0 +1,1 @@
+:root{--orangeColor:#ffa600;--large-font_size:30px}*{box-sizing:border-box;font-family:'Play',sans-serif}h1{font-size:var(--large-font_size);color:var(--orangeColor)}header{text-align:center;color:var(--orangeColor)}li{margin:5px}.modal-body{text-align:center}

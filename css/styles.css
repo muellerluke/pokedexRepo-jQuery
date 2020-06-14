@@ -21,3 +21,7 @@ header {
 li {
   margin: 5px;
 }
+
+.modal-body {
+  text-align: center;
+}
